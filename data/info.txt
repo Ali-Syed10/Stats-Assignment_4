@@ -1,0 +1,26 @@
+## Populations:
+- East Asian: CHB, JPT, CHS, CDX, and KHV
+- European CEU, TSI, FIN, GBR, and IBS
+
+## Genes
+
+#### Control Gene
+- MC1R
+- 16
+- 89985270..89987380
+- NA
+- NA
+
+#### Gene #1
+- EOGT
+- 3
+- 69024376..69062835
+- 69059023
+- rs9812253
+
+#### Gene 2
+- PUS10
+- 2
+- 61167358..61245394
+- 61217542 
+- rs10188217 
